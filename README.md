@@ -5,11 +5,7 @@ Then I created a pivot table for “Unit Sold by Products” and a corresponding
 I Created a Dashboard and designed and customized my dashboard, then I Created three slicers.
 
 ![](Sources/ProfitBYMonth.png)
-
 ![](Sources/Profitbycountriesandproduct.png)
-
 ![](Sources/UnitSoldByprofit.png)
-
 ![](Source/Unitsoldbyproduct.png)
-
 ![](Source/Dashboard.png)
