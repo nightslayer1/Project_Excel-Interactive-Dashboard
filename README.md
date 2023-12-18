@@ -3,3 +3,9 @@ I have made an Exel Document For Kevin Cookie Company, to show how much profit t
 ![](Sources/ProfitBYMonth.png)
 
 ![](Sources/Profitbycountriesandproduct.png)
+
+![](Sources/UnitSoldByprofit.png)
+
+![](Source/Unitsoldbyproduct.png)
+
+![](Source/Dashboard.png)
