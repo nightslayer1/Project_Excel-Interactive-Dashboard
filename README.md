@@ -7,5 +7,5 @@ I Created a Dashboard and designed and customized my dashboard, then I Created t
 ![](Sources/ProfitBYMonth.png)
 ![](Sources/Profitbycountriesandproduct.png)
 ![](Sources/UnitSoldByprofit.png)
-![](Source/Unitsoldbyproduct.png)
-![](Source/Dashboard.png)
+![](Sources/Unitsoldbyproduct.png)
+![](sources/Dashboard.png)
